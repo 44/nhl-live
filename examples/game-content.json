@@ -1,0 +1,2356 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2023. All Rights Reserved.",
+  "link": "/api/v1/game/2022020598/content",
+  "editorial": {
+    "preview": {
+      "title": "Preview",
+      "topicList": "",
+      "items": [
+        {
+          "type": "article",
+          "state": "A",
+          "date": "2023-01-03T11:52:59-0500",
+          "id": "339470402",
+          "headline": "Coyotes at Panthers",
+          "subhead": "",
+          "seoTitle": "Arizona Coyotes Florida Panthers game preview",
+          "seoDescription": "&gt;&lt;b&gt;COYOTES (13-17-5) at PANTHERS (16-18-4)&lt;/b&gt;&lt;/h4&gt;&lt;h5&gt;&lt;b&gt;7 p.m. ET; BSFL, BSAZ, ESPN+, SN NOW&lt;/b&gt;&lt;/h5&gt;...",
+          "seoKeywords": "Arizona Coyotes, at, Florida Panthers, game preview, lineups",
+          "slug": "arizona-coyotes-florida-panthers-game-preview",
+          "commenting": true,
+          "tagline": "",
+          "tokenData": {
+            "token-1546530418BECFA431DB7": {
+              "tokenGUID": "token-1546530418BECFA431DB7",
+              "type": "playerCard",
+              "id": "8479343",
+              "teamId": "53",
+              "position": "Right Wing",
+              "name": "Clayton Keller",
+              "seoName": "clayton-keller"
+            },
+            "token-0C628FA1F7373E28A3D8C": {
+              "tokenGUID": "token-0C628FA1F7373E28A3D8C",
+              "type": "playerCard",
+              "id": "8476329",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Travis Boyd",
+              "seoName": "travis-boyd"
+            },
+            "token-BE36F3CA0B770BED4308B": {
+              "tokenGUID": "token-BE36F3CA0B770BED4308B",
+              "type": "playerCard",
+              "id": "8479619",
+              "teamId": "53",
+              "position": "Left Wing",
+              "name": "Michael Carcone",
+              "seoName": "michael-carcone"
+            },
+            "token-87AF4A6EF398E6E1073BE": {
+              "tokenGUID": "token-87AF4A6EF398E6E1073BE",
+              "type": "playerCard",
+              "id": "8480855",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Jack McBain",
+              "seoName": "jack-mcbain"
+            },
+            "token-EB4D354FBD81B7E0826BC": {
+              "tokenGUID": "token-EB4D354FBD81B7E0826BC",
+              "type": "playerCard",
+              "id": "8475760",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Nick Bjugstad",
+              "seoName": "nick-bjugstad"
+            },
+            "token-01FEEDE25CE8BABE9AF83": {
+              "tokenGUID": "token-01FEEDE25CE8BABE9AF83",
+              "type": "playerCard",
+              "id": "8478474",
+              "teamId": "53",
+              "position": "Left Wing",
+              "name": "Lawson Crouse",
+              "seoName": "lawson-crouse"
+            },
+            "token-1C0C86F76339102BE8C93": {
+              "tokenGUID": "token-1C0C86F76339102BE8C93",
+              "type": "playerCard",
+              "id": "8477941",
+              "teamId": "53",
+              "position": "Left Wing",
+              "name": "Nick Ritchie",
+              "seoName": "nick-ritchie"
+            },
+            "token-2917B9548E2A419BAB5B1": {
+              "tokenGUID": "token-2917B9548E2A419BAB5B1",
+              "type": "playerCard",
+              "id": "8480849",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Barrett Hayton",
+              "seoName": "barrett-hayton"
+            },
+            "token-50C38599DF2FB390854A8": {
+              "tokenGUID": "token-50C38599DF2FB390854A8",
+              "type": "playerCard",
+              "id": "8478432",
+              "teamId": "53",
+              "position": "Right Wing",
+              "name": "Christian Fischer",
+              "seoName": "christian-fischer"
+            },
+            "token-41C374D1C06231D4A78A9": {
+              "tokenGUID": "token-41C374D1C06231D4A78A9",
+              "type": "playerCard",
+              "id": "8475178",
+              "teamId": "53",
+              "position": "Right Wing",
+              "name": "Zack Kassian",
+              "seoName": "zack-kassian"
+            },
+            "token-4837CA1B0FCA32EA61D91": {
+              "tokenGUID": "token-4837CA1B0FCA32EA61D91",
+              "type": "playerCard",
+              "id": "8479345",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Jakob Chychrun",
+              "seoName": "jakob-chychrun"
+            },
+            "token-AFED6969D809DE2AC4D83": {
+              "tokenGUID": "token-AFED6969D809DE2AC4D83",
+              "type": "playerCard",
+              "id": "8476906",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Shayne Gostisbehere",
+              "seoName": "shayne-gostisbehere"
+            },
+            "token-79057E1C23568021C27B5": {
+              "tokenGUID": "token-79057E1C23568021C27B5",
+              "type": "playerCard",
+              "id": "8479976",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Juuso Valimaki",
+              "seoName": "juuso-valimaki"
+            },
+            "token-4DF0534D079BBC44CC782": {
+              "tokenGUID": "token-4DF0534D079BBC44CC782",
+              "type": "playerCard",
+              "id": "8482655",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "J.J. Moser",
+              "seoName": "jj-moser"
+            },
+            "token-A2B36CDD2966A59A71FAE": {
+              "tokenGUID": "token-A2B36CDD2966A59A71FAE",
+              "type": "playerCard",
+              "id": "8475747",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Patrik Nemeth",
+              "seoName": "patrik-nemeth"
+            },
+            "token-CD9B7F9780C87398F71B3": {
+              "tokenGUID": "token-CD9B7F9780C87398F71B3",
+              "type": "playerCard",
+              "id": "8479442",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Troy Stecher",
+              "seoName": "troy-stecher"
+            },
+            "token-7F8A7545A3949A39682AC": {
+              "tokenGUID": "token-7F8A7545A3949A39682AC",
+              "type": "playerCard",
+              "id": "8477384",
+              "teamId": "53",
+              "position": "Defenseman",
+              "name": "Josh Brown",
+              "seoName": "josh-brown"
+            },
+            "token-12C641A72E0241BE10081": {
+              "tokenGUID": "token-12C641A72E0241BE10081",
+              "type": "playerCard",
+              "id": "8478872",
+              "teamId": "53",
+              "position": "Goalie",
+              "name": "Karel Vejmelka",
+              "seoName": "karel-vejmelka"
+            },
+            "token-2CF34B1CCD6835FCFE7B4": {
+              "tokenGUID": "token-2CF34B1CCD6835FCFE7B4",
+              "type": "playerCard",
+              "id": "8478971",
+              "teamId": "53",
+              "position": "Goalie",
+              "name": "Connor Ingram",
+              "seoName": "connor-ingram"
+            },
+            "token-AA4A2E88E8CC2750990AE": {
+              "tokenGUID": "token-AA4A2E88E8CC2750990AE",
+              "type": "playerCard",
+              "id": "8477951",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Nick Schmaltz",
+              "seoName": "nick-schmaltz"
+            },
+            "token-8B2D6B4350C5BB27D1AB1": {
+              "tokenGUID": "token-8B2D6B4350C5BB27D1AB1",
+              "type": "playerCard",
+              "id": "8477070",
+              "teamId": "53",
+              "position": "Center",
+              "name": "Liam O'Brien",
+              "seoName": "liam-obrien"
+            },
+            "token-87042DF001B34DB0A5A82": {
+              "tokenGUID": "token-87042DF001B34DB0A5A82",
+              "type": "playerCard",
+              "id": "8481711",
+              "teamId": "53",
+              "position": "Left Wing",
+              "name": "Matias Maccelli",
+              "seoName": "matias-maccelli"
+            },
+            "token-7EFA6E7E2EDD50F1D4E9E": {
+              "tokenGUID": "token-7EFA6E7E2EDD50F1D4E9E",
+              "type": "playerCard",
+              "id": "8477409",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Carter Verhaeghe",
+              "seoName": "carter-verhaeghe"
+            },
+            "token-DE818AE37DA7FDA3816AE": {
+              "tokenGUID": "token-DE818AE37DA7FDA3816AE",
+              "type": "playerCard",
+              "id": "8477493",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Aleksander Barkov",
+              "seoName": "aleksander-barkov"
+            },
+            "token-5C4453509F57C8079BEB9": {
+              "tokenGUID": "token-5C4453509F57C8079BEB9",
+              "type": "playerCard",
+              "id": "8479314",
+              "teamId": "13",
+              "position": "Left Wing",
+              "name": "Matthew Tkachuk",
+              "seoName": "matthew-tkachuk"
+            },
+            "token-979DACF600EE858EE1EBC": {
+              "tokenGUID": "token-979DACF600EE858EE1EBC",
+              "type": "playerCard",
+              "id": "8480185",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Eetu Luostarinen",
+              "seoName": "eetu-luostarinen"
+            },
+            "token-67F7632EF8ABE4D7E5493": {
+              "tokenGUID": "token-67F7632EF8ABE4D7E5493",
+              "type": "playerCard",
+              "id": "8477935",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Sam Bennett",
+              "seoName": "sam-bennett"
+            },
+            "token-52DCD1091EFF2D09F2CB1": {
+              "tokenGUID": "token-52DCD1091EFF2D09F2CB1",
+              "type": "playerCard",
+              "id": "8478400",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Colin White",
+              "seoName": "colin-white"
+            },
+            "token-02E7FAE1CF83BB5B9E28F": {
+              "tokenGUID": "token-02E7FAE1CF83BB5B9E28F",
+              "type": "playerCard",
+              "id": "8476393",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Nick Cousins",
+              "seoName": "nick-cousins"
+            },
+            "token-C65FCA02B6227116E8387": {
+              "tokenGUID": "token-C65FCA02B6227116E8387",
+              "type": "playerCard",
+              "id": "8482113",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Anton Lundell",
+              "seoName": "anton-lundell"
+            },
+            "token-27F9FA962B09E1900DE89": {
+              "tokenGUID": "token-27F9FA962B09E1900DE89",
+              "type": "playerCard",
+              "id": "8477933",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Sam Reinhart",
+              "seoName": "sam-reinhart"
+            },
+            "token-78452171EC9D4A5C25C95": {
+              "tokenGUID": "token-78452171EC9D4A5C25C95",
+              "type": "playerCard",
+              "id": "8479066",
+              "teamId": "13",
+              "position": "Left Wing",
+              "name": "Ryan Lomberg",
+              "seoName": "ryan-lomberg"
+            },
+            "token-BB9FD5B65A1705BC5A0A0": {
+              "tokenGUID": "token-BB9FD5B65A1705BC5A0A0",
+              "type": "playerCard",
+              "id": "8470595",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Eric Staal",
+              "seoName": "eric-staal"
+            },
+            "token-BD2441561168D50F38E8F": {
+              "tokenGUID": "token-BD2441561168D50F38E8F",
+              "type": "playerCard",
+              "id": "8474610",
+              "teamId": "13",
+              "position": "Center",
+              "name": "Zac Dalpe",
+              "seoName": "zac-dalpe"
+            },
+            "token-7BC28EFA0B3DFBE863B81": {
+              "tokenGUID": "token-7BC28EFA0B3DFBE863B81",
+              "type": "playerCard",
+              "id": "8478055",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Gustav Forsling",
+              "seoName": "gustav-forsling"
+            },
+            "token-14EE4B9F001ADA0B69B82": {
+              "tokenGUID": "token-14EE4B9F001ADA0B69B82",
+              "type": "playerCard",
+              "id": "8477932",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Aaron Ekblad",
+              "seoName": "aaron-ekblad"
+            },
+            "token-79CF242A30A0F8327049A": {
+              "tokenGUID": "token-79CF242A30A0F8327049A",
+              "type": "playerCard",
+              "id": "8471686",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Marc Staal",
+              "seoName": "marc-staal"
+            },
+            "token-E6FD844DE8ED2F77680A1": {
+              "tokenGUID": "token-E6FD844DE8ED2F77680A1",
+              "type": "playerCard",
+              "id": "8477986",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Brandon Montour",
+              "seoName": "brandon-montour"
+            },
+            "token-8EC034989644F12CC6EB7": {
+              "tokenGUID": "token-8EC034989644F12CC6EB7",
+              "type": "playerCard",
+              "id": "8479372",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Josh Mahura",
+              "seoName": "josh-mahura"
+            },
+            "token-83680B77839829BC593A3": {
+              "tokenGUID": "token-83680B77839829BC593A3",
+              "type": "playerCard",
+              "id": "8475462",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Radko Gudas",
+              "seoName": "radko-gudas"
+            },
+            "token-9CB328F897D836EDB078B": {
+              "tokenGUID": "token-9CB328F897D836EDB078B",
+              "type": "playerCard",
+              "id": "8481519",
+              "teamId": "13",
+              "position": "Goalie",
+              "name": "Spencer Knight",
+              "seoName": "spencer-knight"
+            },
+            "token-027F52C8139CA6F0E26BB": {
+              "tokenGUID": "token-027F52C8139CA6F0E26BB",
+              "type": "playerCard",
+              "id": "8475683",
+              "teamId": "13",
+              "position": "Goalie",
+              "name": "Sergei Bobrovsky",
+              "seoName": "sergei-bobrovsky"
+            },
+            "token-8E51A1515483425F785A2": {
+              "tokenGUID": "token-8E51A1515483425F785A2",
+              "type": "playerCard",
+              "id": "8482641",
+              "teamId": "13",
+              "position": "Defenseman",
+              "name": "Matt Kiersted",
+              "seoName": "matt-kiersted"
+            },
+            "token-BE9601DDB6B605EF02AAA": {
+              "tokenGUID": "token-BE9601DDB6B605EF02AAA",
+              "type": "playerCard",
+              "id": "8479379",
+              "teamId": "13",
+              "position": "Right Wing",
+              "name": "Givani Smith",
+              "seoName": "givani-smith"
+            },
+            "token-6EB4488E056568159FE9B": {
+              "tokenGUID": "token-6EB4488E056568159FE9B",
+              "type": "playerCard",
+              "id": "8471887",
+              "teamId": "13",
+              "position": "Right Wing",
+              "name": "Patric Hornqvist",
+              "seoName": "patric-hornqvist"
+            },
+            "token-279CBD65458FAE1CB1FB7": {
+              "tokenGUID": "token-279CBD65458FAE1CB1FB7",
+              "type": "hyperLink",
+              "href": "https://www.nhl.com/player/laurent-dauphin-8477460",
+              "hrefMobile": "https://www.nhl.com/player/laurent-dauphin-8477460"
+            },
+            "token-AD063BD580518D72D0E8A": {
+              "tokenGUID": "token-AD063BD580518D72D0E8A",
+              "type": "hyperLink",
+              "href": "https://www.nhl.com/player/anthony-duclair-8477407",
+              "hrefMobile": "https://www.nhl.com/player/anthony-duclair-8477407"
+            }
+          },
+          "contributor": {
+            "contributors": [],
+            "source": ""
+          },
+          "keywordsDisplay": [
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            }
+          ],
+          "keywordsAll": [
+            {
+              "type": "gameId",
+              "value": "2022020598",
+              "displayName": "ARI at FLA - 01/03/2023 - 2:00:00 PM"
+            },
+            {
+              "type": "previewWordCount",
+              "value": "13",
+              "displayName": "private_13"
+            },
+            {
+              "type": "previewParagraphCount",
+              "value": "2",
+              "displayName": "private_2"
+            },
+            {
+              "type": "primaryTag",
+              "value": "content|gamePreview",
+              "displayName": "game preview"
+            },
+            {
+              "type": "teamId",
+              "value": "53",
+              "displayName": "Arizona Coyotes"
+            },
+            {
+              "type": "bodyParagraphCount",
+              "value": "28",
+              "displayName": "private_28"
+            },
+            {
+              "type": "content",
+              "value": "gamePreview",
+              "displayName": "game preview"
+            },
+            {
+              "type": "clob_autoTagSkip_playerCards",
+              "value": "body",
+              "displayName": "private_body"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            },
+            {
+              "type": "teamFileCode",
+              "value": "FLA",
+              "displayName": "Florida Panthers"
+            },
+            {
+              "type": "teamId",
+              "value": "13",
+              "displayName": "Florida Panthers"
+            },
+            {
+              "type": "teamFileCode",
+              "value": "ARI",
+              "displayName": "Arizona Coyotes"
+            },
+            {
+              "type": "bodyWordCount",
+              "value": "265",
+              "displayName": "private_265"
+            }
+          ],
+          "approval": "",
+          "url": "/news/arizona-coyotes-florida-panthers-game-preview/c-339470402?game_pk=2022020598",
+          "dataURI": "/nhl/id/v1/339470402/details/web-v1.json",
+          "primaryKeyword": {
+            "type": "content",
+            "value": "gamePreview",
+            "displayName": "game preview"
+          },
+          "shareImage": "",
+          "media": {
+            "type": "photo",
+            "image": {
+              "title": "",
+              "altText": "",
+              "cuts": {
+                "2568x1444": {
+                  "aspectRatio": "16:9",
+                  "width": 2568,
+                  "height": 1444,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/2568x1444/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2568x1444/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2568x1444/cut.jpg"
+                },
+                "2208x1242": {
+                  "aspectRatio": "16:9",
+                  "width": 2208,
+                  "height": 1242,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg"
+                },
+                "2048x1152": {
+                  "aspectRatio": "16:9",
+                  "width": 2048,
+                  "height": 1152,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/2048x1152/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2048x1152/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2048x1152/cut.jpg"
+                },
+                "1704x960": {
+                  "aspectRatio": "16:9",
+                  "width": 1704,
+                  "height": 960,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1704x960/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1704x960/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1704x960/cut.jpg"
+                },
+                "1536x864": {
+                  "aspectRatio": "16:9",
+                  "width": 1536,
+                  "height": 864,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1536x864/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1536x864/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1536x864/cut.jpg"
+                },
+                "1284x722": {
+                  "aspectRatio": "16:9",
+                  "width": 1284,
+                  "height": 722,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1284x722/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2568x1444/cut.jpg"
+                },
+                "1136x640": {
+                  "aspectRatio": "16:9",
+                  "width": 1136,
+                  "height": 640,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1136x640/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1136x640/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1136x640/cut.jpg"
+                },
+                "1024x576": {
+                  "aspectRatio": "16:9",
+                  "width": 1024,
+                  "height": 576,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1024x576/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2048x1152/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg"
+                },
+                "960x540": {
+                  "aspectRatio": "16:9",
+                  "width": 960,
+                  "height": 540,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/960x540/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/960x540/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/960x540/cut.jpg"
+                },
+                "768x432": {
+                  "aspectRatio": "16:9",
+                  "width": 768,
+                  "height": 432,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/768x432/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1536x864/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/2208x1242/cut.jpg"
+                },
+                "640x360": {
+                  "aspectRatio": "16:9",
+                  "width": 640,
+                  "height": 360,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/640x360/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/640x360/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/640x360/cut.jpg"
+                },
+                "568x320": {
+                  "aspectRatio": "16:9",
+                  "width": 568,
+                  "height": 320,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/568x320/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1136x640/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1704x960/cut.jpg"
+                },
+                "372x210": {
+                  "aspectRatio": "16:9",
+                  "width": 372,
+                  "height": 210,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/372x210/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/372x210/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/372x210/cut.jpg"
+                },
+                "320x180": {
+                  "aspectRatio": "16:9",
+                  "width": 320,
+                  "height": 180,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/320x180/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/640x360/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/960x540/cut.jpg"
+                },
+                "248x140": {
+                  "aspectRatio": "16:9",
+                  "width": 248,
+                  "height": 140,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/248x140/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/248x140/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/248x140/cut.jpg"
+                },
+                "124x70": {
+                  "aspectRatio": "16:9",
+                  "width": 124,
+                  "height": 70,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/124x70/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/248x140/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/372x210/cut.jpg"
+                },
+                "1200x630": {
+                  "aspectRatio": "1200:630",
+                  "width": 1200,
+                  "height": 630,
+                  "src": "https://cms.nhl.bamgrid.com/images/photos/300583846/1200x630/cut.jpg",
+                  "at2x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1200x630/cut.jpg",
+                  "at3x": "https://cms.nhl.bamgrid.com/images/photos/300583846/1200x630/cut.jpg"
+                }
+              }
+            }
+          },
+          "preview": "<h4><b>COYOTES (13-17-5) at PANTHERS (16-18-4)</b></h4><h5><b>7 p.m. ET; BSFL, BSAZ, ESPN+, SN NOW</b></h5>"
+        }
+      ]
+    },
+    "articles": {
+      "title": "Articles",
+      "topicList": "",
+      "items": []
+    },
+    "recap": {
+      "title": "Recap",
+      "topicList": "",
+      "items": []
+    }
+  },
+  "media": {
+    "epg": [
+      {
+        "title": "NHLTV",
+        "platform": "web",
+        "items": [
+          {
+            "guid": "3e1dc491-9c5b-40bb-b267-9a527fc021a0",
+            "mediaState": "MEDIA_OFF",
+            "mediaPlaybackId": "2026827201",
+            "mediaFeedType": "HOME",
+            "callLetters": "",
+            "eventId": "221-3003843",
+            "language": "eng",
+            "freeGame": false,
+            "feedName": "",
+            "gamePlus": false,
+            "externalId": []
+          },
+          {
+            "guid": "b328b4cc-9f1a-4f57-a510-7e05f50ba74e",
+            "mediaState": "MEDIA_OFF",
+            "mediaPlaybackId": "2026827211",
+            "mediaFeedType": "AWAY",
+            "callLetters": "",
+            "eventId": "221-3003843",
+            "language": "eng",
+            "freeGame": false,
+            "feedName": "",
+            "gamePlus": false,
+            "externalId": []
+          }
+        ]
+      },
+      {
+        "title": "Audio",
+        "items": [
+          {
+            "mediaState": "MEDIA_ON",
+            "mediaPlaybackId": "2030000598",
+            "mediaFeedType": "HOME",
+            "callLetters": "FLA",
+            "eventId": "221-3003843",
+            "language": "eng",
+            "freeGame": false,
+            "feedName": "",
+            "gamePlus": false
+          },
+          {
+            "mediaState": "MEDIA_ON",
+            "mediaPlaybackId": "2040000598",
+            "mediaFeedType": "AWAY",
+            "callLetters": "ARI",
+            "eventId": "221-3003843",
+            "language": "eng",
+            "freeGame": false,
+            "feedName": "",
+            "gamePlus": false
+          }
+        ]
+      },
+      {
+        "title": "Extended Highlights",
+        "topicList": "336122984",
+        "items": []
+      },
+      {
+        "title": "Recap",
+        "topicList": "336122984",
+        "items": []
+      },
+      {
+        "title": "Power Play",
+        "items": []
+      }
+    ],
+    "milestones": {}
+  },
+  "highlights": {
+    "scoreboard": {
+      "title": "Highlights",
+      "topicList": "336122984",
+      "items": [
+        {
+          "type": "video",
+          "id": "14526989",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Keller scores goal",
+          "blurb": "ARI@FLA: Keller scores in 2nd period",
+          "description": "Clayton Keller scores against the Florida Panthers to make it 2-2",
+          "duration": "00:41",
+          "authFlow": false,
+          "mediaPlaybackId": "14526989",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "statsEventId",
+              "value": "385",
+              "displayName": "385"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "teamId",
+              "value": "53",
+              "displayName": "53"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/568x320/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/568x320/cut.jpg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/320x180/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/124x70/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/40fb168e-0e54-427f-b04a-b9df14296d13.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/06ddeeb6-4219-4b6b-9e50-a5fe96c8d5b8.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/90135cbc-9e68-417f-aaae-e028ff91a84f.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/b890c262-1d18-4457-a546-1acd5b2f7a44.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14526059",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Staal scores on a rebound",
+          "blurb": "ARI@FLA: Staal puts home a goal to extend lead",
+          "description": "Eric Staal picks up the puck on a rebound and shoots from the circle to extend the Panthers' lead to 2-0",
+          "duration": "00:39",
+          "authFlow": false,
+          "mediaPlaybackId": "14526059",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "76",
+              "displayName": "76"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            },
+            {
+              "type": "teamId",
+              "value": "13",
+              "displayName": "13"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/568x320/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/568x320/cut.jpg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/320x180/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/124x70/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/706146de-950b-4e5e-b697-2a0d9d9d49ed.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/a1a908dc-d239-4a66-8b8d-3fb2a8bd1dde.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/30cce624-7eb7-4da3-96c9-8d5917aac838.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/32b49870-c317-40bc-bde3-a148e8986832.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14525720",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Tkachuk nets opening goal",
+          "blurb": "ARI@FLA: Tkachuk scores an early 1st period goal",
+          "description": "Matthew Tkachuk gets a feed from Aleksander Barkov and puts it home to put the Panthers on the board 1 minute into the 1st period",
+          "duration": "00:38",
+          "authFlow": false,
+          "mediaPlaybackId": "14525720",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "56",
+              "displayName": "56"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            },
+            {
+              "type": "teamId",
+              "value": "13",
+              "displayName": "13"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/568x320/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/568x320/cut.jpeg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/320x180/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/124x70/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/356f13c9-35ad-49f7-aba5-31312188f696.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/1e86272c-c8d8-4906-b79b-d56208a451ab.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/0e20d5e2-46d2-4bf5-9a67-c8a5076ff63b.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/165f0de9-3dbd-4dc6-add7-8ad93effe512.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14526614",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Chychrun fires home PPG",
+          "blurb": "ARI@FLA: Chychrun puts Coyotes on the board with PPG",
+          "description": "Jakob Chychrun gets a feed from Clayton Keller and gets in tight to score a power-play goal, making it 2-1 in the final seconds of the 1st",
+          "duration": "00:20",
+          "authFlow": false,
+          "mediaPlaybackId": "14526614",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "356",
+              "displayName": "356"
+            },
+            {
+              "type": "teamId",
+              "value": "53",
+              "displayName": "53"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/568x320/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/568x320/cut.jpeg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/320x180/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/124x70/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/03f92499-0801-41f0-89be-32d30153a37f.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/80300540-d179-407c-b4ad-a9a635230325.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/d3af93f1-3232-4898-ad4f-04d83998d9c5.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/e686f4fa-d0c0-4611-923b-e4ae3bd41cb3.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWiredWeb.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    "gameCenter": {
+      "title": "Highlights",
+      "topicList": "336122984",
+      "items": [
+        {
+          "type": "video",
+          "id": "14526989",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Keller scores goal",
+          "blurb": "ARI@FLA: Keller scores in 2nd period",
+          "description": "Clayton Keller scores against the Florida Panthers to make it 2-2",
+          "duration": "00:41",
+          "authFlow": false,
+          "mediaPlaybackId": "14526989",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "statsEventId",
+              "value": "385",
+              "displayName": "385"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "teamId",
+              "value": "53",
+              "displayName": "53"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1024x576/cut.jpg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/768x432/cut.jpg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/568x320/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/568x320/cut.jpg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/320x180/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/960x540/cut.jpg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339490082/124x70/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339490082/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339490082/372x210/cut.jpg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/40fb168e-0e54-427f-b04a-b9df14296d13.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/06ddeeb6-4219-4b6b-9e50-a5fe96c8d5b8.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/90135cbc-9e68-417f-aaae-e028ff91a84f.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/b890c262-1d18-4457-a546-1acd5b2f7a44.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592495/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14526059",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Staal scores on a rebound",
+          "blurb": "ARI@FLA: Staal puts home a goal to extend lead",
+          "description": "Eric Staal picks up the puck on a rebound and shoots from the circle to extend the Panthers' lead to 2-0",
+          "duration": "00:39",
+          "authFlow": false,
+          "mediaPlaybackId": "14526059",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "76",
+              "displayName": "76"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            },
+            {
+              "type": "teamId",
+              "value": "13",
+              "displayName": "13"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1024x576/cut.jpg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/768x432/cut.jpg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/568x320/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/1136x640/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/568x320/cut.jpg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/320x180/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/640x360/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/960x540/cut.jpg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339487310/124x70/cut.jpg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339487310/248x140/cut.jpg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339487310/372x210/cut.jpg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/706146de-950b-4e5e-b697-2a0d9d9d49ed.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/a1a908dc-d239-4a66-8b8d-3fb2a8bd1dde.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/30cce624-7eb7-4da3-96c9-8d5917aac838.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/32b49870-c317-40bc-bde3-a148e8986832.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591578/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14525720",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Tkachuk nets opening goal",
+          "blurb": "ARI@FLA: Tkachuk scores an early 1st period goal",
+          "description": "Matthew Tkachuk gets a feed from Aleksander Barkov and puts it home to put the Panthers on the board 1 minute into the 1st period",
+          "duration": "00:38",
+          "authFlow": false,
+          "mediaPlaybackId": "14525720",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "56",
+              "displayName": "56"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            },
+            {
+              "type": "teamId",
+              "value": "13",
+              "displayName": "13"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1024x576/cut.jpeg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/768x432/cut.jpeg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/568x320/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/568x320/cut.jpeg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/320x180/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/960x540/cut.jpeg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489144/124x70/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489144/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489144/372x210/cut.jpeg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/356f13c9-35ad-49f7-aba5-31312188f696.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/1e86272c-c8d8-4906-b79b-d56208a451ab.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/0e20d5e2-46d2-4bf5-9a67-c8a5076ff63b.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/165f0de9-3dbd-4dc6-add7-8ad93effe512.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8591236/MasterWiredWeb.m3u8"
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "id": "14526614",
+          "date": "2023-01-03T19:00:00-0500",
+          "title": "Chychrun fires home PPG",
+          "blurb": "ARI@FLA: Chychrun puts Coyotes on the board with PPG",
+          "description": "Jakob Chychrun gets a feed from Clayton Keller and gets in tight to score a power-play goal, making it 2-1 in the final seconds of the 1st",
+          "duration": "00:20",
+          "authFlow": false,
+          "mediaPlaybackId": "14526614",
+          "mediaState": "MEDIA_ARCHIVE",
+          "keywords": [
+            {
+              "type": "shareable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "embeddable",
+              "value": "Y",
+              "displayName": "Y"
+            },
+            {
+              "type": "content",
+              "value": "highlight",
+              "displayName": "highlight"
+            },
+            {
+              "type": "content",
+              "value": "realTimeHighlight",
+              "displayName": "Real-Time Highlight"
+            },
+            {
+              "type": "statsEventId",
+              "value": "356",
+              "displayName": "356"
+            },
+            {
+              "type": "teamId",
+              "value": "53",
+              "displayName": "53"
+            },
+            {
+              "type": "language",
+              "value": "en",
+              "displayName": "English"
+            }
+          ],
+          "image": {
+            "title": "",
+            "altText": "",
+            "cuts": {
+              "1136x640": {
+                "aspectRatio": "16:9",
+                "width": 1136,
+                "height": 640,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg"
+              },
+              "1024x576": {
+                "aspectRatio": "16:9",
+                "width": 1024,
+                "height": 576,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1024x576/cut.jpeg"
+              },
+              "960x540": {
+                "aspectRatio": "16:9",
+                "width": 960,
+                "height": 540,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg"
+              },
+              "768x432": {
+                "aspectRatio": "16:9",
+                "width": 768,
+                "height": 432,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/768x432/cut.jpeg"
+              },
+              "640x360": {
+                "aspectRatio": "16:9",
+                "width": 640,
+                "height": 360,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg"
+              },
+              "568x320": {
+                "aspectRatio": "16:9",
+                "width": 568,
+                "height": 320,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/568x320/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/1136x640/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/568x320/cut.jpeg"
+              },
+              "372x210": {
+                "aspectRatio": "16:9",
+                "width": 372,
+                "height": 210,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg"
+              },
+              "320x180": {
+                "aspectRatio": "16:9",
+                "width": 320,
+                "height": 180,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/320x180/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/640x360/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/960x540/cut.jpeg"
+              },
+              "248x140": {
+                "aspectRatio": "16:9",
+                "width": 248,
+                "height": 140,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg"
+              },
+              "124x70": {
+                "aspectRatio": "16:9",
+                "width": 124,
+                "height": 70,
+                "src": "https://cms.nhl.bamgrid.com/images/photos/339489286/124x70/cut.jpeg",
+                "at2x": "https://cms.nhl.bamgrid.com/images/photos/339489286/248x140/cut.jpeg",
+                "at3x": "https://cms.nhl.bamgrid.com/images/photos/339489286/372x210/cut.jpeg"
+              }
+            }
+          },
+          "playbacks": [
+            {
+              "name": "FLASH_192K_320X180",
+              "width": "320",
+              "height": "180",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/03f92499-0801-41f0-89be-32d30153a37f.mp4"
+            },
+            {
+              "name": "FLASH_450K_384x216",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/80300540-d179-407c-b4ad-a9a635230325.mp4"
+            },
+            {
+              "name": "FLASH_1200K_640X360",
+              "width": "640",
+              "height": "360",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/d3af93f1-3232-4898-ad4f-04d83998d9c5.mp4"
+            },
+            {
+              "name": "FLASH_1800K_896x504",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/editor/e686f4fa-d0c0-4611-923b-e4ae3bd41cb3.mp4"
+            },
+            {
+              "name": "HTTP_CLOUD_MOBILE",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterMobile.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterTablet.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_TABLET_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterTablet60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED",
+              "width": "null",
+              "height": "null",
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWired.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_60",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWired60.m3u8"
+            },
+            {
+              "name": "HTTP_CLOUD_WIRED_WEB",
+              "width": null,
+              "height": null,
+              "url": "https://hlslive-wsczoominwestus.med.nhl.com/publish-hls/new/8592132/MasterWiredWeb.m3u8"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
