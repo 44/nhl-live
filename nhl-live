@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+
+import requests
+
+colors = {
+        "NJD": ["CE1126", "000000", "FFFFFF"],
+        "NYI": ["00539B", "F47D30"],
+        "NYR": ["0038A8", "CE1126", "FFFFFF"],
+        "PHI": ["F74902", "000000", "FFFFFF"],
+        "PIT": ["FCB514", "CFC493", "000000", "FFFFFF"],
+        "BOS": ["FFB81C", "000000"],
+        "BUF": ["003087", "FFB81C"],
+        "MTL": ["AF1E2D", "192168"],
+        "OTT": ["DA1A32", "B79257", "000000"],
+        "TOR": ["00205B", "FFFFFF"],
+        "CAR": ["CE1126", "FFFFFF", "A4A9AD", "000000"],
+        "FLA": ["C8102E", "041E42", "B9975B"],
+        "TBL": ["002868", "FFFFFF"],
+        "WSH": ["C8102E", "041E42", "FFFFFF"],
+        "CHI": ["CF0A2C", "FF671B", "00833E", "FFD100", "D18A00", "001970", "000000", "FFFFFF"],
+        "DET": ["CE1126", "FFFFFF"],
+        "NSH": ["FFB81C", "041E42", "FFFFFF"],
+        "STL": ["002F87", "FCB514", "041E42", "FFFFFF"],
+        "CGY": ["D2001C", "FAAF19"],
+        "COL": ["6F263D", "236192", "A2AAAD", "000000"],
+        "EDM": ["FF4C00", "041E42"],
+        "VAN": ["00205B", "00843D", "041C2C", "99999A", "FFFFFF"],
+        "ANA": ["F47A38", "B9975B", "C1C6C8", "000000"],
+        "DAL": ["006847", "8F8F8C", "111111"],
+        "LAK": ["A2AAAD", "111111", "FFFFFF", "572A84", "FFC80C"],
+        "SJS": ["006D75", "EA7200", "000000", "FFFFFF"],
+        "CBJ": ["002654", "002654", "A4A9AD"],
+        "MIN": ["154734", "A6192E", "EAAA00", "DDCBA4"],
+        "WPG": ["041E42", "004C97", "AC162C", "7B303E", "55565A", "8E9090"],
+        "ARI": ["8C2633", "E2D6B5", "111111"],
+        "VGK": ["B4975A", "333F42", "C8102E", "000000"],
+        "SEA": ["68A2B9", "355464", "99D9D9", "001628", "E9072B"],
+}
+
+import truecolor
+
+def get_team_name(abr):
+    # return truecolor.color_text(abr, truecolor.hex_to_rgb(colors[abr][1]),
+    #                             truecolor.hex_to_rgb(colors[abr][0]))
+    return truecolor.color_text(abr, (255, 255, 255), truecolor.hex_to_rgb(colors[abr][0]))
+    # return truecolor.fore_text(abr, truecolor.bold(truecolor.hex_to_rgb(colors[abr][0])))
+
+live = requests.get('https://statsapi.web.nhl.com/api/v1/schedule')
+teams = requests.get('https://statsapi.web.nhl.com/api/v1/teams')
+if live.status_code == 200 and teams.status_code == 200:
+    l = live.json()
+    t = teams.json()
+    teams_map = {}
+    for ti in t["teams"]:
+        teams_map[str(ti["id"])] = ti
+    for d in l['dates']:
+        for g in d["games"]:
+            pk = g["gamePk"]
+            link = g["link"]
+            status = g["status"]["detailedState"]
+            home = g["teams"]["home"]
+            home_abr = teams_map[str(home["team"]["id"])]["abbreviation"]
+            away = g["teams"]["away"]
+            away_abr = teams_map[str(away["team"]["id"])]["abbreviation"]
+            line = "%15s: %s @ %s - %d : %d " % (
+                    status, get_team_name(away_abr), get_team_name(home_abr), away["score"], home["score"])
+            print(line)
+
