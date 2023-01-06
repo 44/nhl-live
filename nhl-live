@@ -17,7 +17,7 @@ colors = {
         "FLA": ["C8102E", "041E42", "B9975B"],
         "TBL": ["002868", "FFFFFF"],
         "WSH": ["C8102E", "041E42", "FFFFFF"],
-        "CHI": ["CF0A2C", "FF671B", "00833E", "FFD100", "D18A00", "001970", "000000", "FFFFFF"],
+        "CHI": ["CF0A2C", "000000", "00833E", "FF671B", "FFD100", "D18A00", "001970", "FFFFFF"],
         "DET": ["CE1126", "FFFFFF"],
         "NSH": ["FFB81C", "041E42", "FFFFFF"],
         "STL": ["002F87", "FCB514", "041E42", "FFFFFF"],
@@ -39,11 +39,35 @@ colors = {
 
 import truecolor
 
+def contrast(bg):
+    total = sum(bg)
+    if total >= 450:
+        return (0, 0, 0)
+    return (255, 255, 255)
+
+def team_color(abr):
+    return truecolor.hex_to_rgb(colors[abr][0])
+
+def team_acolor(abr):
+    return truecolor.hex_to_rgb(colors[abr][1])
+
 def get_team_name(abr):
-    # return truecolor.color_text(abr, truecolor.hex_to_rgb(colors[abr][1]),
-    #                             truecolor.hex_to_rgb(colors[abr][0]))
-    return truecolor.color_text(abr, (255, 255, 255), truecolor.hex_to_rgb(colors[abr][0]))
-    # return truecolor.fore_text(abr, truecolor.bold(truecolor.hex_to_rgb(colors[abr][0])))
+    c = team_color(abr)
+    return truecolor.color_text(" " + abr + " ", contrast(c), c)
+
+def get_team_score(abr, score):
+    str_score = " %2d " % (score)
+    c = team_acolor(abr)
+    return truecolor.color_text(str_score, contrast(c), c)
+
+def get_separator(away_abr, home_abr):
+    return truecolor.color_text("", team_acolor(home_abr), team_acolor(away_abr))
+
+def get_score_separator(abr, away):
+    if away:
+        return truecolor.color_text("", team_acolor(abr), team_color(abr))
+    else:
+        return truecolor.color_text("", team_color(abr), team_acolor(abr))
 
 live = requests.get('https://statsapi.web.nhl.com/api/v1/schedule')
 teams = requests.get('https://statsapi.web.nhl.com/api/v1/teams')
@@ -64,5 +88,23 @@ if live.status_code == 200 and teams.status_code == 200:
             away_abr = teams_map[str(away["team"]["id"])]["abbreviation"]
             line = "%15s: %s @ %s - %d : %d " % (
                     status, get_team_name(away_abr), get_team_name(home_abr), away["score"], home["score"])
+            line = "%15s: %s%s%s%s%s%s%s" % (
+                    status,
+                    get_team_name(away_abr),
+                    get_score_separator(away_abr, True),
+                    get_team_score(away_abr, away['score']),
+                    " : ", #get_separator(away_abr, home_abr),
+                    get_team_score(home_abr, home['score']),
+                    get_score_separator(home_abr, False),
+                    get_team_name(home_abr)
+                    )
             print(line)
 
+det = truecolor.hex_to_rgb(colors["DET"][0])
+mns = truecolor.hex_to_rgb(colors["MIN"][0])
+white = (255, 255, 255)
+
+# print(truecolor.color_text("     ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text("      ", white, mns))
+# print(truecolor.color_text(" DET ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text(" MIN  ", white, mns))
+# print(truecolor.color_text("     ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text("      ", white, mns))
+#
