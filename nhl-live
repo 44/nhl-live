@@ -45,15 +45,30 @@ def contrast(bg):
         return (0, 0, 0)
     return (255, 255, 255)
 
+def team_clr(abr, n):
+    if len(colors[abr]) <= n:
+        return truecolor.hex_to_rgb(colors[abr][0])
+    return truecolor.hex_to_rgb(colors[abr][n])
+
 def team_color(abr):
     return truecolor.hex_to_rgb(colors[abr][0])
 
 def team_acolor(abr):
     return truecolor.hex_to_rgb(colors[abr][1])
 
+def team_ecolor(abr):
+    if len(colors[abr]) > 2:
+        return truecolor.hex_to_rgb(colors[abr][2])
+    return truecolor.hex_to_rgb(colors[abr][0])
+
 def get_team_name(abr):
     c = team_color(abr)
     return truecolor.color_text(" " + abr + " ", contrast(c), c)
+
+def get_team_extra(abr, text):
+    c = team_ecolor(abr)
+    return truecolor.color_text(text, contrast(c), c)
+
 
 def get_team_score(abr, score):
     str_score = " %2d " % (score)
@@ -68,6 +83,27 @@ def get_score_separator(abr, away):
         return truecolor.color_text("", team_acolor(abr), team_color(abr))
     else:
         return truecolor.color_text("", team_color(abr), team_acolor(abr))
+
+def fmt(team, score, home):
+    c_main = team_clr(team, 0)
+    c_score = team_clr(team, 1)
+    c_acc = team_clr(team, 2)
+    p_team = truecolor.color_text(f"  {team}  ", contrast(c_main), c_main)
+    p_score = truecolor.color_text(" %2d  " % score, contrast(c_score), c_score)
+    if home:
+        p_sep = truecolor.color_text("", c_main, c_score)
+        p_sep1 = truecolor.color_text(" ", c_score, c_acc)
+        p_sep1 = truecolor.color_text("", c_score, c_acc)
+        p_badge = truecolor.fore_text("", c_acc)
+        p_badge = truecolor.fore_text("", c_acc)
+        return p_badge + p_sep1 + p_score + p_sep + p_team
+    else:
+        p_sep = truecolor.color_text("", c_score, c_main)
+        p_sep1 = truecolor.color_text(" ", c_score, c_acc)
+        p_sep1 = truecolor.color_text("", c_score, c_acc)
+        p_badge = truecolor.fore_text("", c_acc)
+        p_badge = truecolor.fore_text("", c_acc)
+        return p_team + p_sep + p_score + p_sep1 + p_badge
 
 live = requests.get('https://statsapi.web.nhl.com/api/v1/schedule')
 teams = requests.get('https://statsapi.web.nhl.com/api/v1/teams')
@@ -86,25 +122,19 @@ if live.status_code == 200 and teams.status_code == 200:
             home_abr = teams_map[str(home["team"]["id"])]["abbreviation"]
             away = g["teams"]["away"]
             away_abr = teams_map[str(away["team"]["id"])]["abbreviation"]
-            line = "%15s: %s @ %s - %d : %d " % (
-                    status, get_team_name(away_abr), get_team_name(home_abr), away["score"], home["score"])
-            line = "%15s: %s%s%s%s%s%s%s" % (
+            line = fmt(away_abr, away["score"], False) + " : " + fmt(home_abr, home["score"], True) + " " + status
+            line1 = "%15s: %s%s%s%s%s%s%s%s%s" % (
                     status,
                     get_team_name(away_abr),
                     get_score_separator(away_abr, True),
                     get_team_score(away_abr, away['score']),
+                    get_team_extra(away_abr, "  "),
                     " : ", #get_separator(away_abr, home_abr),
+                    get_team_extra(home_abr, "  "),
                     get_team_score(home_abr, home['score']),
                     get_score_separator(home_abr, False),
                     get_team_name(home_abr)
                     )
             print(line)
 
-det = truecolor.hex_to_rgb(colors["DET"][0])
-mns = truecolor.hex_to_rgb(colors["MIN"][0])
-white = (255, 255, 255)
-
-# print(truecolor.color_text("     ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text("      ", white, mns))
-# print(truecolor.color_text(" DET ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text(" MIN  ", white, mns))
-# print(truecolor.color_text("     ", white, det) + truecolor.color_text("  ", mns, det) + truecolor.color_text("      ", white, mns))
 #
