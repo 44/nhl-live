@@ -3,36 +3,37 @@
 import requests
 
 colors = {
+        "ANA": ["b5985a", "f95602", "a4a9ad", "111111"],
+        "ARI": ["8c2633", "e2d6b5", "111111"],
+        "BOS": ["fcb514", "000000"],
+        "BUF": ["002654", "fcb514", "adafaa"],
+        "CGY": ["ce1126", "f3bc52", "111111"],
+        "CAR": ["cc0000", "000000", "a2a9af", "76232F", "333F48"],
+        "CHI": ["ce1126", "000000", "ffd100", "ff6720", "001871", "cc8a00", "00843d"],
+        "COL": ["6f263d", "236192", "a2aaad", "c1c6c8", "010101"],
+        "CBJ": ["041e42", "c8102e", "a2aaad"],
+        "DAL": ["006341", "010101", "a2aaad"],
+        "DET": ["c8102e", "FFFFFF"],
+        "EDM": ["fc4c02", "041e42"],
+        "FLA": ["c8102e", "041e42", "b9975b"],
+        "LAK": ["a2aaad", "111111", "572A84", "FFC80C", "FFFFFF"],
+        "MIN": ["154734", "A6192E", "ddcba4", "eaaa00"],
+        "MTL": ["a6192e", "001e62"],
+        "NSH": ["ffb81c", "041e42"],
+
         "NJD": ["CE1126", "000000", "FFFFFF"],
         "NYI": ["00539B", "F47D30"],
         "NYR": ["0038A8", "CE1126", "FFFFFF"],
         "PHI": ["F74902", "000000", "FFFFFF"],
         "PIT": ["FCB514", "CFC493", "000000", "FFFFFF"],
-        "BOS": ["FFB81C", "000000"],
-        "BUF": ["003087", "FFB81C"],
-        "MTL": ["AF1E2D", "192168"],
         "OTT": ["DA1A32", "B79257", "000000"],
         "TOR": ["00205B", "FFFFFF"],
-        "CAR": ["CE1126", "FFFFFF", "A4A9AD", "000000"],
-        "FLA": ["C8102E", "041E42", "B9975B"],
         "TBL": ["002868", "FFFFFF"],
         "WSH": ["C8102E", "041E42", "FFFFFF"],
-        "CHI": ["CF0A2C", "000000", "00833E", "FF671B", "FFD100", "D18A00", "001970", "FFFFFF"],
-        "DET": ["CE1126", "FFFFFF"],
-        "NSH": ["FFB81C", "041E42", "FFFFFF"],
         "STL": ["002F87", "FCB514", "041E42", "FFFFFF"],
-        "CGY": ["D2001C", "FAAF19"],
-        "COL": ["6F263D", "236192", "A2AAAD", "000000"],
-        "EDM": ["FF4C00", "041E42"],
         "VAN": ["00205B", "00843D", "041C2C", "99999A", "FFFFFF"],
-        "ANA": ["F47A38", "B9975B", "C1C6C8", "000000"],
-        "DAL": ["006847", "8F8F8C", "111111"],
-        "LAK": ["A2AAAD", "111111", "FFFFFF", "572A84", "FFC80C"],
         "SJS": ["006D75", "EA7200", "000000", "FFFFFF"],
-        "CBJ": ["002654", "002654", "A4A9AD"],
-        "MIN": ["154734", "A6192E", "EAAA00", "DDCBA4"],
         "WPG": ["041E42", "004C97", "AC162C", "7B303E", "55565A", "8E9090"],
-        "ARI": ["8C2633", "E2D6B5", "111111"],
         "VGK": ["B4975A", "333F42", "C8102E", "000000"],
         "SEA": ["68A2B9", "355464", "99D9D9", "001628", "E9072B"],
 }
@@ -136,5 +137,11 @@ if live.status_code == 200 and teams.status_code == 200:
                     get_team_name(home_abr)
                     )
             print(line)
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1:
+            print(fmt(sys.argv[1], 3, False) + " : " + fmt(sys.argv[1], 1, True) + " In Progress")
+
 
 #
